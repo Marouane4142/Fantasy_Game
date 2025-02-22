@@ -1,35 +1,49 @@
-﻿OBJECTIF
+# 🏰 **FANTASY GAME** 🏰
 
+Un **mage maléfique** s'est emparé de **votre château** ! 🧙‍♂️ Vous devez **regagner vos forces** en combattant des créatures pour espérer l'affronter et récupérer votre royaume !
 
-Un mage s'est emparé de votre château, et vous devez regagner vos forces afin de pouvoir l'affronter ! 
+---
 
+## 🎮 **Contrôles**
 
-CONTRÔLES
+| **Touche**        | **Action** |
+|-------------------|-----------|
+| **Espace**       | 🗡️ Attaquer |
+| **Z / Q / S / D** ou **Flèches** | 🚶 Se déplacer |
+| **W**            | 🗺️ Ouvrir la Minimap |
+| **SHIFT**        | 🏃 Courir |
+| **E**            | 🔄 Interagir (sauvegarde, médailles, entrer/sortir) |
+| **ÉCHAP**        | ⏸️ Ouvrir le Menu Pause |
 
+> 📌 **Navigation des menus** : Vous pouvez utiliser soit les **flèches directionnelles**, soit la **souris**.
 
-Espace - Attaque
-Touches directionnelles/ZQSD - Déplacements
-W - Minimap/map
-SHIFT - Courir
-E - Interactions (points de sauvegarde, médailles, entrer, sortir)
-ECHAP - Menu pause
+---
 
+## 📈 **Progression & Levels**
 
-L'écran titre et le menu pause sont navigables aussi bien avec les flèches directionnelles qu'à la souris.
+Le joueur gagne des niveaux en **tuant des monstres**. Chaque montée de niveau offre des **améliorations** :
 
+| **Niveau** | **Effet débloqué** |
+|------------|-------------------|
+| **LVL 1**  | 🩸 **PV** : 100 | ⚔️ **Attaque** : 20 |
+| **LVL 10** | 🩸 **PV** augmentés à **120** |
+| **LVL 12** | 🟢 Apparition des **monstres verts** |
+| **LVL 13** | ❤️ Régénération automatique de **PV toutes les 45 sec** |
+| **LVL 17** | 🩸 **PV** augmentés à **140** |
+| **LVL 18** | 🔴 Apparition des **monstres rouges** |
+| **LVL 20** | ❤️ Régénération des **PV toutes les 30 sec** |
+| **LVL 24** | ⚔️ **Dégâts infligés** augmentés à **50** |
 
-LEVELS
-Ci-après, les niveaux et ce qu'ils apportent au joueur, ainsi que les conditions requises pour pouvoir terminer le jeu.
+### 🎯 **Objectif Final**
+Pour accéder au **château** et combattre le **Mage Maléfique**, vous devez :  
+✅ **Être au moins niveau 18**  
+✅ **Avoir collecté les 4 pierres magiques**  
 
+---
 
-Level up : Tuer des monstres
- À chaque level up,+1 de dégâts infligés par le joueur
-Au LVL 10, vie du joueur à 120
-Au LVL 12, monstres verts
-Au LVL 13, régénération progressive des PV à 45sec d'intervalle
-Au LVL 17, vie du joueur à 140
-Au LVL 18, monstres rouges
-Au LVL 20, régénération à 30sec d'intervalle
-Au LVL 24, dégâts infligés par le joueur à 50
-Pour pouvoir accéder au château, posséder les 4 pierres et être min.LVL 18
-Statistiques de base du joueur : 100pv, 20 attaque
+## ⚔️ **Statistiques de Base**  
+
+- **Points de Vie** 🩸 : **100**  
+- **Attaque** ⚔️ : **20**  
+
+---
