@@ -4,6 +4,16 @@ Un **mage maléfique** s'est emparé de **votre château** ! 🧙‍♂️ Vous 
 
 ---
 
+## 🎓 **À propos du projet**
+
+Ce jeu a été réalisé dans le cadre d'un **projet de classe en Terminale**. Il est encore **en cours de développement** et peut contenir quelques erreurs. 
+
+👨‍💻 **Développeurs** : 
+- **Marouane ARNAUD EL MAGHNOUJI**
+- **Jad BOUDISSA**
+
+---
+
 ## 🎮 **Contrôles**
 
 | **Touche**        | **Action** |
