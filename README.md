@@ -10,6 +10,7 @@ Ce jeu a été réalisé dans le cadre d'un **projet de classe en Terminale**. I
 
 👨‍💻 **Développeurs** : 
 - **Marouane ARNAUD EL MAGHNOUJI**
+- **Jad BOUDISSA**
 
 ---
 
