@@ -10,7 +10,6 @@ Un **mage maléfique** s'est emparé de **votre château** ! 🧙‍♂️ Vous 
 |-------------------|-----------|
 | **Espace**       | 🗡️ Attaquer |
 | **Z / Q / S / D** ou **Flèches** | 🚶 Se déplacer |
-| **W**            | 🗺️ Ouvrir la Minimap |
 | **SHIFT**        | 🏃 Courir |
 | **E**            | 🔄 Interagir (sauvegarde, médailles, entrer/sortir) |
 | **ÉCHAP**        | ⏸️ Ouvrir le Menu Pause |
@@ -38,12 +37,5 @@ Le joueur gagne des niveaux en **tuant des monstres**. Chaque montée de niveau 
 Pour accéder au **château** et combattre le **Mage Maléfique**, vous devez :  
 ✅ **Être au moins niveau 18**  
 ✅ **Avoir collecté les 4 pierres magiques**  
-
----
-
-## ⚔️ **Statistiques de Base**  
-
-- **Points de Vie** 🩸 : **100**  
-- **Attaque** ⚔️ : **20**  
 
 ---
