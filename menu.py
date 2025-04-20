@@ -1,4 +1,16 @@
 # RPG Game Marouane ARNAUD EL MAGHNOUJI, Jad BOUDISSA
+import subprocess
+import sys
+
+# Liste des bibliothèques requises
+required_packages = ["pygame", "pyscroll", "pytmx","Image"]
+
+for package in required_packages:
+    try:
+        __import__(package)
+    except ImportError:
+        print(f"{package} non installé. Installation en cours...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 import pygame
 import os
